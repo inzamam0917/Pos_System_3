@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Pos_System_3.Model/1.0.0": {
+        "runtime": {
+          "Pos_System_3.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pos_System_3.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

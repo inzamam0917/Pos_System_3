@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Data\bin\Debug\net8.0\Pos_System_3.Data.deps.json
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Data\bin\Debug\net8.0\Pos_System_3.Data.dll
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Data\bin\Debug\net8.0\Pos_System_3.Data.pdb
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Data\bin\Debug\net8.0\Pos_System_3.Model.dll
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Data\bin\Debug\net8.0\Pos_System_3.Model.pdb
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Data\obj\Debug\net8.0\Pos_System_3.Data.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Data\obj\Debug\net8.0\Pos_System_3.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Data\obj\Debug\net8.0\Pos_System_3.Data.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Data\obj\Debug\net8.0\Pos_System_3.Data.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Data\obj\Debug\net8.0\Pos_System_3.Data.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Data\obj\Debug\net8.0\Pos_Syst.0ADE12EB.Up2Date
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Data\obj\Debug\net8.0\Pos_System_3.Data.dll
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Data\obj\Debug\net8.0\refint\Pos_System_3.Data.dll
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Data\obj\Debug\net8.0\Pos_System_3.Data.pdb
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Data\obj\Debug\net8.0\ref\Pos_System_3.Data.dll

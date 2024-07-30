@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Model\bin\Debug\net8.0\Pos_System_3.Model.deps.json
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Model\bin\Debug\net8.0\Pos_System_3.Model.dll
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Model\bin\Debug\net8.0\Pos_System_3.Model.pdb
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Model\obj\Debug\net8.0\Pos_System_3.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Model\obj\Debug\net8.0\Pos_System_3.Model.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Model\obj\Debug\net8.0\Pos_System_3.Model.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Model\obj\Debug\net8.0\Pos_System_3.Model.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Model\obj\Debug\net8.0\Pos_System_3.Model.dll
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Model\obj\Debug\net8.0\refint\Pos_System_3.Model.dll
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Model\obj\Debug\net8.0\Pos_System_3.Model.pdb
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Model\obj\Debug\net8.0\ref\Pos_System_3.Model.dll

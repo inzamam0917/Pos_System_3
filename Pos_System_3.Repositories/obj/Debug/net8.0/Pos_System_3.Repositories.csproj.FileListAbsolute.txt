@@ -1,0 +1,17 @@
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Repositories\bin\Debug\net8.0\Pos_System_3.Repositories.deps.json
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Repositories\bin\Debug\net8.0\Pos_System_3.Repositories.dll
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Repositories\bin\Debug\net8.0\Pos_System_3.Repositories.pdb
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Repositories\bin\Debug\net8.0\Pos_System_3.Data.dll
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Repositories\bin\Debug\net8.0\Pos_System_3.Model.dll
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Repositories\bin\Debug\net8.0\Pos_System_3.Data.pdb
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Repositories\bin\Debug\net8.0\Pos_System_3.Model.pdb
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Repositories\obj\Debug\net8.0\Pos_System_3.Repositories.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Repositories\obj\Debug\net8.0\Pos_System_3.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Repositories\obj\Debug\net8.0\Pos_System_3.Repositories.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Repositories\obj\Debug\net8.0\Pos_System_3.Repositories.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Repositories\obj\Debug\net8.0\Pos_System_3.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Repositories\obj\Debug\net8.0\Pos_Syst.F22D32CD.Up2Date
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Repositories\obj\Debug\net8.0\Pos_System_3.Repositories.dll
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Repositories\obj\Debug\net8.0\refint\Pos_System_3.Repositories.dll
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Repositories\obj\Debug\net8.0\Pos_System_3.Repositories.pdb
+C:\Users\LENOVO\source\repos\Pos_System_3\Pos_System_3.Repositories\obj\Debug\net8.0\ref\Pos_System_3.Repositories.dll
